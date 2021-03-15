@@ -2,4 +2,4 @@
 
 ##Subheader
 
-YouTube Tutorial is very helping me.
+Github is kinda hard.
